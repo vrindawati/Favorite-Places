@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.favourite-places-bg-container{
+    background-image: url(" https://assets.ccbp.in/frontend/static-website/tower-bg.png");
+    background-size: cover;
+    height: 155vh;
+    padding: 20px;
+}
+.favourite-places-heading{
+    color: white;
+    font-size: 28px;
+    font-family:"Roboto";
+    font-weight: bold;
+    margin-left: 30px;
+}
+.container{
+    margin: 20px;
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.tajmahal-heading{
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 23px;
+}
